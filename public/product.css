@@ -1,0 +1,152 @@
+.top_portion{
+    background-color:firebrick;
+    height: 40px;
+    
+    
+    }
+    .top_portion h6{
+    
+        margin-left: 9%;
+        color: white;
+       margin-top: 1.4%;
+    }
+    .top_portion i {
+    margin-left: 2%;
+    }
+    .navbar li{
+    
+        padding: 15px;
+        margin-top: 1px;
+        color: black;
+        font-family: fantasy;
+        font-size: 20px;
+        }
+        .navbar li :hover{
+          
+          box-shadow: 2px 2px 2px firebrick;
+        }
+        .navbar a{
+        
+            color: black;
+        }
+        .carousel-inner img{
+            height: 800px;
+            width: 100%;
+          
+            position: relative;
+        }
+        .carousel-inner h3{
+         
+            color: black;
+            text-shadow: 2px 2px 2px firebrick
+        } 
+        .owl-next{    display: block;
+    width: 42px;
+    height: 51px;
+    background: url('../images/sp.png');
+    background-position: -47px -19px;}
+.owl-prev {
+    display: block;
+    width: 42px;
+    height: 51px;
+    background: url('../images/sp.png');
+    background-position: 1px -19px;
+}
+      .timer h2{
+color: firebrick;
+text-shadow: 2px 2px 2px black;
+text-align: center;
+font-size: 50px;
+      }
+      .timer h1{
+color: firebrick;
+border: 3px solid black;
+border-top-right-radius: 20%;
+background-color: gray;
+width: 40%;
+text-align: center;
+margin-left: 20%;
+font-family: fantasy;
+font-size: 80px;
+margin-top: -7%;
+      }
+      .owl-carousel img{
+height: 240px;
+width: 200px;
+
+
+
+      }
+      .item{
+        box-shadow: 2px 2px 3px 3px firebrick;
+        margin-left: 1%;
+        text-align: center;
+      }
+      .item button{
+          background-color: firebrick;
+          color: white;
+      }
+       .item button:hover{
+        background-color:black;
+    }
+      .timer p{
+          color: black;
+          margin-top: -32%;
+          margin-left: 29%;
+          font-size: 20px;
+      }
+      .products h1{
+          color: firebrick;text-align: center;
+          text-shadow: 2px 2px 2px black;
+          margin-top: -7%;
+      }
+       .image{
+          width: 100%;
+          height: 400px;
+     
+      }
+      .card{
+box-shadow: 2px 2px 2px 2px firebrick;
+      }
+      .card img{
+height: 200px;
+width: 200px;
+margin-left: 10%;
+
+      }
+      .footer{
+        background-color: firebrick
+    }
+    .footer a{
+        color: black;
+        margin-left: 7%;
+    }
+    .footer i{
+        color:white;
+    }
+    .footer h1{
+        color: black;
+    margin-left: -10%;
+    text-align: center;}
+    .footer img{
+        height: 60px;
+        width: 60px;
+        margin-left: 11%;
+    }
+    #button {
+        background-color: firebrick;
+        width: 50px;
+        height: 50px;
+        text-align: center;
+        border-radius: 4px;
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        cursor: pointer;
+    }
+    
+    #button i {
+        font-size: 22px;
+        color: white;
+        margin-top: 23%;
+    }

@@ -1,0 +1,144 @@
+.top_portion{
+    background-color:firebrick;
+    height: 40px;
+    
+    
+    }
+   .top_portion h2{
+       color: white;
+       margin-left: -28%;
+   }
+   .top_portion h4{
+       color: black;
+       margin-top: -8%;
+       margin-left: 17%;
+   }
+    .navbar li{
+    
+        padding: 15px;
+        margin-top: 1px;
+        color: black;
+        font-family: fantasy;
+        font-size: 20px;
+        }
+        .navbar li :hover{
+          
+          box-shadow: 2px 2px 2px firebrick;
+        }
+        .navbar a{
+        
+            color: black;
+        }
+        .intro img{
+         width: 100%;
+            height: 500px;
+            position: relative;
+        }
+        .centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+             transform: translate(-10%, -15%); 
+            color:white;
+            border-left: 2px solid red;
+            height: 32%;
+            position: vertical;
+           
+            text-align: center;
+          }
+          .centered button{
+              margin-top: 5%;
+              color: white;
+              background-color: black;
+              box-shadow: 2px 2px 2px firebrick ;
+              font-family: fantasy;
+              font-size: 20px;
+          }
+          .left_side {
+            position: absolute;
+            top: 20%;
+            left: 15%;
+             transform: translate(-10%, -15%); 
+            color:white;
+           
+          }
+          .eidsale{
+
+           background-color: firebrick;  
+          }
+          @font-face{
+font-family: eidsale;
+src: url(StarellaTattoo_PERSONAL_USE.ttf);
+          }
+.eidsale h1{
+    font-family: eidsale;
+    float: center;
+    font-size: 35px;
+}
+.eidsale img{
+    width: 125%;
+}
+.eidsale h3{
+    color: black;
+    font-family: fantasy;
+}
+.frames img{
+    width: 100%;
+    height: 400px;
+  
+}
+.eidsale h4{
+    margin-top: 20%;
+}
+.frames h4{
+    margin-top: -25%;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.card{
+    box-shadow: 2px 2px 2px 2px firebrick;
+          }
+          .card img{
+    height: 200px;
+    width: 200px;
+    margin-left: 10%;
+    
+          }
+          .footer{
+            background-color: firebrick
+        }
+        .footer a{
+            color: black;
+            margin-left: 7%;
+        }
+        .footer i{
+            color:white;
+        }
+        .footer h1{
+            color: black;
+        margin-left: -10%;
+        text-align: center;}
+        .footer img{
+            height: 60px;
+            width: 60px;
+            margin-left: 11%;
+        }
+        #button {
+            background-color: firebrick;
+            width: 50px;
+            height: 50px;
+            text-align: center;
+            border-radius: 4px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            cursor: pointer;
+        }
+        
+        #button i {
+            font-size: 22px;
+            color: white;
+            margin-top: 23%;
+        }

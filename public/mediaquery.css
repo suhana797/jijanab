@@ -1,0 +1,126 @@
+@media screen and (max-width: 480px) {
+    .top_portion h6{
+
+        margin-left: 16%;
+        color: white;
+       margin-top: 1.4%;
+    }
+    .top_portion{
+        background-color:firebrick;
+        height: 30px;
+        
+        
+        }
+    .centered {
+        position: absolute;
+        top: 30%;
+        left: 8%;
+        /* transform: translate(-50%, -50%); */
+        color:white;
+        border: 5px solid firebrick;
+        text-align: center;
+      }
+      .centered button{
+        color: firebrick;
+        box-shadow: 2px 2px 2px maroon;
+        font-family: fantasy;
+        font-size: 20px;
+    }
+    .intro h4,h6{
+        margin-left: 17%;
+        color: white;
+       
+    }
+    .intro button{
+        margin-left: 32%;
+        margin-top: 15px;
+        color: black;
+        box-shadow: 3px 3px 3px white;
+        text-shadow: 1px 1px 1px firebrick;
+        width: 40%;
+        font-size: 15px;
+    }
+    .intro h2{
+        color: black;
+        text-align: center;
+        margin-top: 5%;
+        font-size: 20px;
+        margin-left: 5%;
+    }
+    marquee{
+        color: white;
+        margin-left: 21%;
+        font-size: 15px;
+    }
+
+    .carouselframes img{
+        height: 200px;
+        margin-left: 0%;
+        width: 25%;
+         }
+     .carouselframes h1{
+            float: right;
+          margin-top: -42%;
+          margin-right: 0%;
+          font-size: 35px;
+        }
+
+        .carouselframes h6{
+            float: right;
+        color: black;
+        margin-top: -38%;
+        margin-right: 2%;
+        }
+        .carouselframes p{
+            float: right;
+            margin-top: -34%;
+            margin-right: 27%;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 25px;
+            color: firebrick;
+        }
+
+        .carouselframes button{
+            float: right;
+            margin-top: -20%;
+            border: 2px solid firebrick;
+            border-bottom-right-radius: 3%;
+            background-color: beige;
+            color: white;
+            font-family: fantasy;
+            font-size: 20px;
+            text-shadow: 2px 2px 2px black;
+            margin-right: 10%;
+        
+        }
+        .order_details img{
+            height: 200px;
+            width: 200px;
+           margin-left: 27%;
+             }
+             .brands img{
+                height: 200px;
+                width: 200px;
+                margin-left: 27%;
+            }
+            .footer h1{
+                color: black;
+           margin-left: -38%;
+           font-size: 30px;
+            }
+            .footer img{
+                height: 60px;
+                width: 60px;
+                margin-left: 2%;
+            }
+            #button i {
+                font-size: 22px;
+                color: white;
+                margin-top: 23%;
+                margin-left: -6%;
+            }
+            .footer a{
+                color: black;
+                margin-left: 2%;
+            }
+    }
